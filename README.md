@@ -41,4 +41,4 @@ The system allows filtering completed tasks and provides clear console logs for 
 
 ## 🖼️ Example Screenshot
 Below is an example of the console output:  
-
+![alt text](image.png)
